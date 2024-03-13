@@ -1,0 +1,107 @@
+h1 {
+    align-items: center;
+    height: 60px;
+    letter-spacing: 0.5cm;
+    font-family: 'Times New Roman';
+    font-size: 30px;
+    display: flex;
+    margin: auto;
+}
+
+body {
+    background-color: rgb(0, 0, 0);
+}
+
+.container1 {
+    height: 200px;
+    width: 200px;
+    margin-top: 50px;
+    border-radius: 50%;
+    margin: auto;
+    align-items: center;
+    display: flex;
+}
+
+.container2 {
+    height: 200px;
+    width: 100%;
+    margin-top: 50px;
+    border-radius: 25px;
+    align-items: center;
+    display: flex;
+    background-color: black;
+    
+}
+
+.letterBoxContainer {
+    height: 100px;
+    width: 100%;
+    border-radius: 25px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-color: black;
+}
+
+.container3 {
+    height: 200px;
+    width: 100%;
+    border-radius: 25px;
+    align-items: center;
+    display: flex;
+    background-color: black;
+}
+
+#display1 {
+    color: white;
+    font-family: 'Times New Roman';
+    letter-spacing: 0.2cm;
+    margin: auto;
+    font-size: 50px;
+    border-radius: 25px;
+}
+
+#display2 {
+    color: white;
+    font-family: 'Times New Roman';
+    letter-spacing: 0.2cm;
+    margin: auto;
+    font-size: 50px;
+    border-radius: 25px;
+    background-color: black;
+    border: none;
+}
+
+#countdown {
+    align-items: center;
+    height: 100px;
+    font-family: 'Times New Roman';
+    font-size: 90px;
+    display: flex;
+    margin: auto;
+    color: white;
+}
+
+.letterLabel {
+    margin-right: 5px;
+    justify-content: center;
+    display: flex;
+    height: 50px;
+    width: 50px;
+    border-radius: 5px;
+    background-color: white;
+}
+
+.result {
+    height: 100px;
+    width: 500px;
+    background-color: white;
+    color: black;
+    font-family: 'Times New Roman';
+    font-size: 30px;
+    border-radius: 25px;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
